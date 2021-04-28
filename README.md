@@ -1,4 +1,4 @@
-#react-meals
+# React-meals
 
 React food order app. React course on Udemy.
 
