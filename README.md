@@ -1,8 +1,12 @@
 # React-meals
 
-SPA created in React. Food order app. React course on Udemy.
-URL: https://react-meals-a7f84.firebaseapp.com/index
+SPA created in React. Food order app.
+
 backend: Firebase
+
+URL: https://react-meals-a7f84.firebaseapp.com/index
+
+React course on Udemy.
 
 # Getting Started with Create React App
 
